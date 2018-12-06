@@ -1,0 +1,223 @@
+
+<!DOCTYPE html>
+
+<html lang="de" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+    <base href="https://www.stauds.com/" />
+    <!--<base href="http://www.stauds.com/">-->
+    
+    <title>stauds.com - Home</title>
+    
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="robots" content="index, follow, noarchive" />
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    
+    
+    <link rel="canonical" href="https://www.stauds.com/" />
+    <link rel="alternate" href="https://www.stauds.com/" hreflang="de" />
+	<link rel="alternate" href="https://www.stauds.com/en/home" hreflang="en" />
+
+	<script src="https://use.typekit.net/wli4yaz.js"></script>
+		<script>try{Typekit.load({ async: true });}catch(e){}</script>
+    
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/main.css">
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#4b81e8"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-right",
+  "content": {
+    "message": "Diese Website nutzt Cookies, um bestmögliche Funktionalität bieten zu können.",
+    "dismiss": "Ok, verstanden",
+    "link": "Mehr Infos",
+    "href": "/datenschutz"
+  }
+})});
+</script>
+    
+</head>
+
+<body id="art_1">
+
+<div id="page">
+
+<header id="masthead">
+	<div class="wrap">
+	<div class="site-branding">
+		<a class="logo" href="/"><img alt="Staud's Wien" src="images/stauds_logo.png" srcset="images/stauds_logo@2x.png 2x" /></a>
+		<span class="slogan">
+		Unvergleichlich im Geschmack.</span>
+	</div>
+	<span class="scroll-down"></span>
+	<nav id="site-navigation" class="main-navigation navigation" role="navigation">
+		<button class="menu-toggle" aria-controls="nav-primary" aria-expanded="false">Primary Menu</button>
+		<a class="scroll-down" href="#colophon"></a>
+		<div id="nav-primary">
+			<div class="nav-column">
+				 <ul class="nav-list"><li class="nav-item news"><a class="nav-link" href="/news">News</a></li>
+<li class="nav-item produkte"><a class="nav-link" href="/produkte">Produkte</a></li>
+<li class="nav-item unternehmen"><a class="nav-link" href="/unternehmen">Unternehmen</a></li>
+<li class="nav-item pavillon"><a class="nav-link" href="/pavillon">Pavillon</a></li>
+<li class="nav-item standort"><a class="nav-link" href="/standort">Standort</a></li>
+<li class="nav-item presse"><a class="nav-link" href="/presse">Presse</a></li>
+<li class="nav-item "><a class="nav-link" href="/video">Video</a></li>
+</ul> 
+
+				<ul class="nav-list contact">
+					<li class="nav-item"><a class="nav-link" href="tel:+43 1 406 88 05 0"><img alt="Phone" src="images/icon_phone.png" srcset="images/icon_phone@2x.png 2x"> +43 (0)1 406 88 05-0</a></li>
+					<li class="nav-item"><a class="nav-link" href="mailto:office@stauds.com"><img alt="Mail" src="images/icon_mail.png" srcset="images/icon_mail@2x.png 2x"> office@stauds.com</a></li>
+				</ul>
+			</div>
+			<div class="nav-column">
+				<ul class="nav-list languages">
+					<li class="nav-item current"><a class="nav-link" href="/">Deutsch</a></li>
+					<li class="nav-item"><a class="nav-link" href="/en/home">English</a></li>
+				</ul>
+				<ul class="nav-list social-media">
+					<li class="nav-item"><a class="nav-link" href="https://www.facebook.com/stauds/" target="_blank"><img alt="Facebook" src="images/fb_logo.png" srcset="images/fb_logo@2x.png 2x"></a></li>
+<li class="nav-item"><a class="nav-link" href="https://www.instagram.com/stauds_vienna/" target="_blank"><img alt="Instagram" src="images/instagram_logo.png" srcset="images/instagram_logo@2x.png 2x"></a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</div>
+</header>
+
+
+
+<div id="content">
+
+
+
+ 
+
+ <div class="force-full-minus-header slideshow-home slideshow-wrap">
+	<div class="cycle-slideshow"
+	data-cycle-fx="scrollVertUp"
+	data-cycle-caption-plugin="caption2"
+	data-cycle-slides="> .slide"
+	data-cycle-speed="600"
+	data-cycle-timeout="5500"
+	data-cycle-pager=".cycle-pager"
+	data-cycle-pager-template="<span></span>"
+	data-cycle-overlay=".overlay"
+	data-cycle-overlay-template="<div class='content-overlay'><h2>{{title}}</h2><p>{{description}}</p></div><a class='glas' href='{{link}}'><img src='{{glas}}'></a>"
+	data-cycle-log="false"
+	>
+
+	<div class="slide"
+		data-cycle-title='Kunstgenuss'
+		data-cycle-description=' im neuen <strong><span class="caps">STAUD</span>’S Adventkalender</strong> '
+		data-cycle-glas=""
+		data-cycle-link="">
+			<div class="slide-image" style="background-image:url('./index.php?rex_resize=1535c__800h__0o__stauds_adventkalender_2.jpg')"></div>
+		</div> 
+
+ </div>
+	<div class="wrap">
+		<div class="cycle-pager"></div>
+		<div class="overlay"></div>
+	</div>
+</div>
+	
+
+
+
+
+
+	
+  
+
+
+</div><!-- /#content -->
+
+<footer id="colophon">
+<div class="wrap">
+	<nav class="secondary-navigation navigation" role="navigation">
+	
+    	 <div class="nav-column">
+			<ul class="nav-list"><li class="nav-item"><a class="nav-link" href="/kontakt">Kontakt</a></li>
+<li class="nav-item"><a class="nav-link" href="/impressum">Impressum</a></li>
+</ul>
+			</div><div class="nav-column">
+			<ul class="nav-list"><li class="nav-item"><a class="nav-link" href="/lage">Lage</a></li>
+<li class="nav-item"><a class="nav-link" href="/rezepte">Rezepte</a></li>
+</ul>
+			</div><div class="nav-column">
+			<ul class="nav-list"><li class="nav-item"><a class="nav-link" href="/oeffnungszeiten">Öffnungszeiten</a></li>
+<li class="nav-item"><a class="nav-link" href="/presse-login">Presse Login</a></li>
+</ul>
+			</div><div class="nav-column">
+			<ul class="nav-list"><li class="nav-item"><a class="nav-link" href="/newsarchiv">Newsarchiv</a></li>
+<li class="nav-item"><a class="nav-link" href="/faqs">Faq's</a></li>
+</ul>
+			</div><div class="nav-column">
+			<ul class="nav-list"><li class="nav-item"><a class="nav-link" href="/links">Links</a></li>
+</ul></div> 
+
+		<!--<div class="nav-column">
+			<ul class="nav-list social-media">
+				<li class="nav-item"><a class="nav-link" href="#"><img alt="Facebook" src="images/fb_logo.png" srcset="images/fb_logo@2x.png 2x"></a></li>
+			</ul>
+		</div>-->
+	</nav>
+</div>
+</footer>
+
+
+</div><!-- /#page -->
+
+	<script src="js/jquery-1.12.4.min.js"></script>
+		<script src="js/jquery.cycle2.min.js"></script>
+		<script src="js/jquery.cycle2.caption2.min.js"></script>
+		<script src="js/jquery.cycle2.scrollVert.min.js"></script>
+		<script src="js/slick.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js?v=2.1.5"></script>
+		<script src="js/curtain.js"></script>
+
+		<script src="js/navigation.js"></script>
+		<script src="js/news.js"></script>
+		<script src="js/produkte.js"></script>
+		<script src="js/pavillon.js"></script>
+		<script src="js/presse.js"></script>
+<script src="js/unternehmen.js"></script>
+</body>
+</html>
+
+
